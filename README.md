@@ -1,6 +1,8 @@
-# MovableTileEntities
-Minecraft Spigot plugin to allow tile/block entities such as chests to be moved by pistons.
+# Move block entities!
+Lets you pull and push chests, trapped chests, barrels, hoppers, all furnace types, lecterns, chiseled bookshelves, droppers, dispensers, jukeboxes, and even brewing stands with pistons!
+Like how you can push Tile Entities/Block Entities like chests with pistons on bedrock, definitely a good addon for geyser to have cross-platform Redstone.
 
-Move chests, trapped chests, dispensers, droppers, barrels, brewing stands, and more with pistons!
+Please feel free to report any bugs at the github link, and ideas/wants in the reviews! (Or if I should rename to MovableBlockEntities)
 
-Works by copying and pasting the blocks when the pistons move them.
+Move block entities without moving things like obsidian or enchanting tables.
+Block entities cannot move when powered.
