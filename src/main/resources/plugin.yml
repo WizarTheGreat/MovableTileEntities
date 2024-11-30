@@ -1,0 +1,5 @@
+name: MovableTileEntities
+version: 1.2.3
+main: plugin.movabletileentities.MovableTileEntities
+api-version: 1.13
+author: WizarTheGreat
