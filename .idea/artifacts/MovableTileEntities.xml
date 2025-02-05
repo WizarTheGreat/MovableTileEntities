@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MovableTileEntities">
+    <output-path>$PROJECT_DIR$/out/artifacts/MovableTileEntities</output-path>
+    <root id="archive" name="MovableTileEntities.jar">
+      <element id="module-output" name="MovableTileEntities" />
+    </root>
+  </artifact>
+</component>
